@@ -11,7 +11,7 @@ Aplicación en Python que gestiona clientes, eventos y ventas usando archivos CS
 ## Estructura del proyecto
 ```
 practica_final/
-├── mini_crm.py # Código fuente principal
+├── practica_final.py # Código fuente principal
 ├── README.md # Este archivo
 └── data/
 ├── clientes.csv # Datos de clientes
